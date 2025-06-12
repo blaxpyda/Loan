@@ -23,3 +23,6 @@ This project implements a two-tier salary advance and loan calculator using Fast
  - Acces the application at your local host
 
  - Conversely, you can access our depployed solution at `http://thugtheory.tech:8505/`
+
+##Licencse
+MIT @KINGDiesel
